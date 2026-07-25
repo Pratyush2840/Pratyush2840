@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Undergrad+%40+IIITDM+Jabalpur;Competitive+Programmer+%7C+600%2B+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Undergrad+%40+IIITDM+Jabalpur;Exploring+AI%2C+RAG+%26+GenAI+Workflows;Competitive+Programmer+%7C+600%2B+Problems+Solved" />
 </p>
 
 <p align="center">
@@ -28,8 +28,15 @@
 </p>
 
 <p align="center">
-  <b>Tools & Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,vscode,postman" />
+  <b>Tools, Databases & DevOps</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,vscode,postman,githubactions" />
+</p>
+
+<p align="center">
+  <b>AI / GenAI Stack</b><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
 </p>
 
 ---
@@ -38,7 +45,9 @@
 
 💻 **Full Stack Development** → Building web applications with ReactJS, ExpressJS & NodeJS — including a full-stack travel booking platform and a social media analytics dashboard.
 
-🤖 **AI/ML** → Working with NumPy, Pandas & TensorFlow for data analysis and machine learning.
+🤖 **AI/ML & GenAI** → Working with NumPy, Pandas & TensorFlow, and exploring LangChain, LangGraph, and RAG pipelines for LLM-powered applications.
+
+⚙️ **DevOps** → Comfortable with Docker, Git/GitHub, CI/CD pipelines (GitHub Actions), and API testing with Postman.
 
 ⚡ **Competitive Programming & DSA** → 600+ problems solved across CodeChef (3★), Codeforces (Pupil), and LeetCode.
 

@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-singh"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.instagram.com/pratyush_singh08"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/pratyush-singh-44162228b/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://github.com/Pratyush2840"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="mailto:psingh080604@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="mailto:psingh08iph@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
@@ -58,9 +59,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-singh"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.instagram.com/pratyush_singh08"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/pratyush-singh-44162228b/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://github.com/Pratyush2840"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="mailto:psingh080604@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="mailto:psingh08iph@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---

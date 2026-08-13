@@ -50,7 +50,7 @@
 
 ⚙️ **DevOps** → Comfortable with Docker, Git/GitHub, CI/CD pipelines (GitHub Actions), and API testing with Postman.
 
-⚡ **Competitive Programming & DSA** → 600+ problems solved across CodeChef (3★), Codeforces (Pupil), and LeetCode.
+⚡ **Competitive Programming & DSA** → 800+ problems solved across CodeChef (3★), Codeforces (Pupil), and LeetCode.
 
 🌱 **Currently** → Lead Developer for IIITDM Jabalpur's Fusion Project (institute website), serving 2000+ students and faculty.
 

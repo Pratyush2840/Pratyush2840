@@ -48,7 +48,7 @@
 
 🤖 **AI/ML & GenAI** → Working with NumPy, Pandas & TensorFlow, and exploring LangChain, LangGraph, and RAG pipelines for LLM-powered applications.
 
-⚙️ **DevOps** → Comfortable with Docker, Git/GitHub, CI/CD pipelines (GitHub Actions), and API testing with Postman.
+⚙️ **DevOps** → Comfortable with Docker, Git/GitHub,CI/CD pipelines (GitHub Actions), and API testing with Postman.
 
 ⚡ **Competitive Programming & DSA** → 800+ problems solved across CodeChef (3★), Codeforces (Pupil), and LeetCode.
 
